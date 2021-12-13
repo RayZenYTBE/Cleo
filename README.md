@@ -17,6 +17,10 @@ npm i
 ### and wait for the project to finish installing!
 ### Step 5: Go ahead and press the run button!
 
+# Links
+- [Our Website](https://sites.google.com/view/atmostfeardevelopersite)
+- [Host on Replit](https://replit.com/github/RayZenYTBE/Cleo)
+
 # Support
 Support this project by starring it, and make sure to give us a credit!
 
