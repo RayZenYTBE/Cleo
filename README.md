@@ -1,6 +1,9 @@
 # Cleo
 A simple to use, fun, and minimalist Discord Akinator Bot. Akinator is now on Discord! Cleo is an akinator bot powered by discord.js v13 and discord.js-akinator npm package!
 
+# Invite Cleo!
+Instead of creating one, let's invite Cleo up! Visit [this page](https://discord.com/api/oauth2/authorize?client_id=915947566380765184&permissions=274878102593&scope=bot) and try to beat Cleo!
+
 # Setup
 ### Step 1: Get your bot token [here](https://discord.com/developers/applications)
 ### Step 2: Put your bot token in the environment variables / lock button with the format below :
