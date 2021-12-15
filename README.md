@@ -22,7 +22,9 @@ npm i
 
 # Links
 - [Our Website](https://sites.google.com/view/atmostfeardevelopersite)
+- [Support Server](https://discord.gg/6XSjbKBbJT)
 - [Host on Replit](https://replit.com/github/RayZenYTBE/Cleo)
+- [Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/RayZenYTBE/Cleo)
 
 # Support
 Support this project by starring it, and make sure to give us a credit!
